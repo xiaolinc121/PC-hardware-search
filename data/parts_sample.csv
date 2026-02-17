@@ -1,0 +1,17 @@
+category,model,price,score,socket,tdp_watts,ram_type,memory_gb
+cpu,AMD Ryzen 5 7600,199,82,AM5,65,,
+cpu,AMD Ryzen 7 7700X,319,90,AM5,105,,
+cpu,Intel Core i5-13600K,289,88,LGA1700,125,,
+gpu,NVIDIA RTX 4060,299,84,,115,,8
+gpu,NVIDIA RTX 4070,549,93,,200,,12
+gpu,AMD RX 7800 XT,499,92,,263,,16
+ram,32GB DDR5-6000,109,88,,,DDR5,32
+ram,16GB DDR5-5600,69,75,,,DDR5,16
+ram,32GB DDR4-3600,79,78,,,DDR4,32
+storage,1TB NVMe Gen4,79,80,,,,
+storage,2TB NVMe Gen4,129,89,,,,
+psu,650W Gold PSU,89,80,,650,,
+psu,750W Gold PSU,119,86,,750,,
+motherboard,B650 AM5 DDR5 Board,179,85,AM5,,DDR5,
+motherboard,Z690 LGA1700 DDR5 Board,189,84,LGA1700,,DDR5,
+motherboard,B660 LGA1700 DDR4 Board,149,76,LGA1700,,DDR4,
